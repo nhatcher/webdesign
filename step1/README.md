@@ -24,3 +24,19 @@ There are many tags you will need to learn. But some comon tags:
 * `h1`, ..., `h6` they are called header elements
 * `im` to insert a immage.
 
+The first declaration in the document `<!DOCTYPE html>` is a special tag telling the browser what version of HTML we will be using.
+In the past that used to be a mess, nowadays, the one and only is HTML5 and is here to stay.
+That needs to be in any single webpage.
+
+The second tag `<html lang="en">` is where the HTML code for the page begins.
+Note that is has a *property*, `lang`. Tags in HTML may have properties. We will see that that is very useful.
+Is this case is telling the browser or client to use the English language.
+
+Then we have the `head` tag. Everything in there is somehow metainformation.
+Like what is the title of the webpage, or what kind of simbols do I what to use.
+In this case, for example, we say the title is "Our first webpage" and we say that the set of characters we want to use is "UTF8".
+
+Do you perhaps remember the ASCII code? UTF8 is simply an anhancement of it.
+For now we will always use utf8 encoded unicode characters. this include manythings on the face of the earth, from arabic and hindi characters to the € sign.
+
+

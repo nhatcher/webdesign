@@ -1,0 +1,21 @@
+#flynn {
+    width: 200px;
+    border: 2px solid red;
+    border-radius: 7px;
+}
+
+.jelena-it {
+    font-style: italic;
+}
+
+.jelena-bold {
+    color: brown;
+    font-weight: bold;
+}
+
+div {
+    background-color: #ffff00;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+}
